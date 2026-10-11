@@ -1,7 +1,7 @@
 An elegant, secure, and responsive JavaScript bookmarklet utility tool designed to streamline reading comprehension workflows. This tool extracts lesson text and quiz contents directly from the DOM using strict client-side evaluation, removing the need for external network extensions.
 Built with vanilla JavaScript, it features a fully draggable, minimisable glassmorphism UI with smooth animations (requestAnimationFrame), touch support, and robust clipboard integration.
 
-⚡ Core Features
+##⚡ Core Features
 
 • Visual Overlay UI: A sleek, self-contained HUD featuring glassmorphism blurring, custom red glowing themes, and high-DPI scaling overrides (z-index: 999999).
 • Instant Text Extraction: Targets specific dynamic reader components (#book-scroll) to grab reading sections and cleanly strip unwanted formatting.
@@ -10,7 +10,7 @@ Built with vanilla JavaScript, it features a fully draggable, minimisable glassm
 • Fully Responsive Controls: Features smooth desktop drag tracking and native multi-touch configurations (touchstart/touchmove) without breaking scrolling layouts.
 • Keyboard Hotkeys: Speed up operations using custom interceptors built right into your keyboard controls.
 
-🛠️ Step-by-Step Installation
+##🛠️ Step-by-Step Installation
 
 Because this tool runs as a bookmarklet, you do not need to install complex extensions or extensions that risk your privacy.
 
